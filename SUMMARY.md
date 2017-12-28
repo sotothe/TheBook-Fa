@@ -7,3 +7,4 @@
 * [آثار](publications.md)
 * [پژوهش‌ها](research.md)
 * [تماس](contact.md)
+* [English](https://sotothe.gitbooks.io/thebook/content/)
